@@ -2,4 +2,9 @@ hi
 hello 
 #check the push command 
 dgdfsgfsdfgsgsg
+hi
+hello
+one 
+two
+three
 
